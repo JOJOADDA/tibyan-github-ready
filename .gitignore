@@ -1,0 +1,14 @@
+node_modules/
+.output/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+.idea/
+.vscode/
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
